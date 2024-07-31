@@ -41,7 +41,9 @@ There are six files/folders in the source
 - solver.py: Another python file. The training, validation, and testing processing are all in there
 - requirements.txt: Python packages needed to run this repo
 ## Usage
-To train and evaluate LFTSAD on a dataset, run the following command:
+1. Install Python 3.6, PyTorch >= 1.4.0
+2. Download the datasets
+3. To train and evaluate LFTSAD on a dataset, run the following command:
 ```bash
 python main.py 
 ```
