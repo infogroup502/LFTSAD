@@ -1,4 +1,4 @@
-# Lightweight and Fast Time-Series Anomaly Detection via Point-Level and Sequence-Level Reconstruction Discrepancy
+# Lightweight and Fast Time-Series Anomaly Detection via Point-Level and Sequence-Level Reconstruction Discrepancy (TNNLS 2025)
 This repository contains the official implementation for the LFTSAD ([paper](https://ieeexplore.ieee.org/document/11006753)).
 
 ## Framework
