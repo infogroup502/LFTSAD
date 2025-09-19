@@ -1,0 +1,1 @@
+python main.py --anormly_ratio 0.1 --num_epochs 3   --batch_size 8   --d_model 128  --dataset UCR  --data_path UCR --input_c 1  --patch_size 15   --patch_seq 3  --seq_size 3   --win_size 45  --p_seq 1.0

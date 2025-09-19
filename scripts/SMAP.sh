@@ -1,0 +1,1 @@
+python main.py --anormly_ratio 0.55 --num_epochs 3   --batch_size 64   --d_model 128  --dataset SMAP  --data_path SMAP --input_c 25  --patch_size 5   --patch_seq 5  --seq_size 10   --win_size 400  --p_seq 0

@@ -1,0 +1,1 @@
+python main.py --anormly_ratio 0.8 --num_epochs 1   --batch_size 128   --d_model 128  --dataset SWAT  --data_path SWAT --input_c 51  --patch_size 2   --patch_seq 2  --seq_size 3   --win_size 30  --p_seq 0.4

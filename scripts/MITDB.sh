@@ -1,0 +1,1 @@
+python main.py --anormly_ratio 0.35 --num_epochs 3   --batch_size 64   --d_model 128  --dataset MITDB  --data_path MITDB --input_c 1  --patch_size 2   --patch_seq 4  --seq_size 5   --win_size 60  --p_seq 1.0

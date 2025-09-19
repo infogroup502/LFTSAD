@@ -1,0 +1,1 @@
+python main.py --anormly_ratio 0.82 --num_epochs 3   --batch_size 128   --d_model 128  --dataset MSL  --data_path MSL --input_c 55  --patch_size 10   --patch_seq 10  --seq_size 5   --win_size 300  --p_seq 0

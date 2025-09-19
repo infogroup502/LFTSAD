@@ -1,0 +1,1 @@
+python main.py --anormly_ratio 1.0 --num_epochs 3   --batch_size 32   --d_model 128  --dataset Occupancy  --data_path Occupancy --input_c 1  --patch_size 6   --patch_seq 2  --seq_size 3   --win_size 30  --p_seq 0.0

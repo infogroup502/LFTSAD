@@ -1,0 +1,1 @@
+python main.py --anormly_ratio 0.7 --num_epochs 3   --batch_size 256   --d_model 128  --dataset WaDi  --data_path WaDi --input_c 127  --patch_size 2   --patch_seq 2  --seq_size 2   --win_size 100  --p_seq 0.15

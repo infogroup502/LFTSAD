@@ -1,0 +1,1 @@
+python main.py --anormly_ratio 1.5 --num_epochs 3   --batch_size 64   --d_model 128  --dataset PSM  --data_path PSM --input_c 25  --patch_size 6   --patch_seq 25  --seq_size 2   --win_size 150  --p_seq 0.75
