@@ -1,6 +1,12 @@
 # Lightweight and Fast Time-Series Anomaly Detection via Point-Level and Sequence-Level Reconstruction Discrepancy
 This repository contains the official implementation for the LFTSAD ([paper](https://ieeexplore.ieee.org/document/11006753)).
 
+## Framework
+<img src="https://github.com/infogroup502/PPLAD/blob/main/img/workflow.png" width="850px">
+
+## Main Result
+<img src="https://github.com/infogroup502/PPLAD/blob/main/img/result.png" width="850px">
+
 ## Requirements
 The recommended requirements for LFTSAD are specified as follows:
 - arch==6.1.0
