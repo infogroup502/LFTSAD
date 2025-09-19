@@ -2,10 +2,10 @@
 This repository contains the official implementation for the LFTSAD ([paper](https://ieeexplore.ieee.org/document/11006753)).
 
 ## Framework
-<img src="https://github.com/infogroup502/PPLAD/blob/main/img/workflow.png" width="850px">
+<img src="https://github.com/infogroup502/LFTSAD/blob/main/img/workflow.png" width="850px">
 
 ## Main Result
-<img src="https://github.com/infogroup502/PPLAD/blob/main/img/result.png" width="850px">
+<img src="https://github.com/infogroup502/LFTSAD/blob/main/img/result.png" width="850px">
 
 ## Requirements
 The recommended requirements for LFTSAD are specified as follows:
