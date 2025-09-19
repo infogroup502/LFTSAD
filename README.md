@@ -4,8 +4,6 @@ This repository contains the official implementation for the LFTSAD ([paper](htt
 ## Framework
 <img src="https://github.com/infogroup502/LFTSAD/blob/main/img/workflow.png" width="850px">
 
-## Main Result
-<img src="https://github.com/infogroup502/LFTSAD/blob/main/img/Accuracy on Multivariate Datasets.png" width="550px">
 ## Requirements
 The recommended requirements for LFTSAD are specified as follows:
 - arch==6.1.0
