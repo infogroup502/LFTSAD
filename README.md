@@ -48,3 +48,17 @@ There are six files/folders in the source
 ```bash
 python main.py 
 ```
+
+## BibTex Citation
+```bash
+@ARTICLE{11006753,
+  author={Chen, Lei and Tang, Jiajun and Zou, Ying and Liu, Xuxin and Xie, Xingquan and Deng, Guangyang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Lightweight and Fast Time-Series Anomaly Detection via Point-Level and Sequence-Level Reconstruction Discrepancy}, 
+  year={2025},
+  volume={36},
+  number={9},
+  pages={17295-17309},
+  keywords={Accuracy;Computer architecture;Computational modeling;Anomaly detection;Image edge detection;Training;Learning systems;Fourth Industrial Revolution;Time series analysis;Real-time systems;All-multilayer perceptron network (MLP)-based anomaly detection;lightweight network and design;point-level and sequence-level;reconstruction discrepancy;time-series anomaly detection (TSAD)},
+  doi={10.1109/TNNLS.2025.3565807}}
+```
